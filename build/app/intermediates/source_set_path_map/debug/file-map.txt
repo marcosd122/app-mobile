@@ -1,0 +1,12 @@
+com.example.flutter_donation_app-core-1.6.0-0 C:\Users\Marcos\.gradle\caches\transforms-3\1562071f3472498a80ce25a123e79be8\transformed\core-1.6.0\res
+com.example.flutter_donation_app-jetified-annotation-experimental-1.1.0-1 C:\Users\Marcos\.gradle\caches\transforms-3\1702fa135996919f933339280e2f1592\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_donation_app-jetified-window-java-1.0.0-beta04-2 C:\Users\Marcos\.gradle\caches\transforms-3\3123e684bc3a0c34deed227629ba3685\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_donation_app-jetified-window-1.0.0-beta04-3 C:\Users\Marcos\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_donation_app-debug-4 C:\Users\Marcos\Documents\Projetos VStudio Code\flutter-donation-app-main\doacao\android\app\src\debug\res
+com.example.flutter_donation_app-main-5 C:\Users\Marcos\Documents\Projetos VStudio Code\flutter-donation-app-main\doacao\android\app\src\main\res
+com.example.flutter_donation_app-pngs-6 C:\Users\Marcos\Documents\Projetos VStudio Code\flutter-donation-app-main\doacao\build\app\generated\res\pngs\debug
+com.example.flutter_donation_app-resValues-7 C:\Users\Marcos\Documents\Projetos VStudio Code\flutter-donation-app-main\doacao\build\app\generated\res\resValues\debug
+com.example.flutter_donation_app-rs-8 C:\Users\Marcos\Documents\Projetos VStudio Code\flutter-donation-app-main\doacao\build\app\generated\res\rs\debug
+com.example.flutter_donation_app-mergeDebugResources-9 C:\Users\Marcos\Documents\Projetos VStudio Code\flutter-donation-app-main\doacao\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_donation_app-mergeDebugResources-10 C:\Users\Marcos\Documents\Projetos VStudio Code\flutter-donation-app-main\doacao\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_donation_app-merged_res-11 C:\Users\Marcos\Documents\Projetos VStudio Code\flutter-donation-app-main\doacao\build\app\intermediates\merged_res\debug
